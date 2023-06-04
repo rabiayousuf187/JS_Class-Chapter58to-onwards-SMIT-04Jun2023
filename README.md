@@ -12,3 +12,19 @@ The HTML DOM model is constructed as a tree of Objects:
                ><title
                        >hfdhfkdjghhfd
   <\title>
+          <h4></h4>
+
+60. The DOM: Finding children
+61. The DOM: Junk artifacts and nodeType
+62. The DOM: More ways to target elements
+63. The DOM: Getting a target's name
+64. The DOM: Counting elements
+65. The DOM: Attributes
+66. The DOM: Attribute names and values
+67. The DOM: Adding nodes
+68. The DOM: Inserting nodes
+          
+         
+         
+<h1>Chapter: 69 Object</h1>
+          update and create property
